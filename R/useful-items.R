@@ -731,7 +731,7 @@ preloader <- function() {
               height: 150px;
               margin: -75px 0 0 -75px;
               border: 3px solid transparent;
-              border-top-color: #3498db;
+              border-top-color: #ffffff;
               border-radius: 50%;
               z-index: 5001;
               -webkit-animation: spin 2s linear infinite;
@@ -745,7 +745,7 @@ preloader <- function() {
               right: 5px;
               bottom: 5px;
               border: 3px solid transparent;
-              border-top-color: #e74c3c;
+              border-top-color: #ffffff;
               border-radius: 50%;
               -webkit-animation: spin 3s linear infinite;
               animation: spin 3s linear infinite;
@@ -758,7 +758,7 @@ preloader <- function() {
               right: 15px;
               bottom: 15px;
               border: 3px solid transparent;
-              border-top-color: #f9c922;
+              border-top-color: #ffffff;
               border-radius: 50%;
               }
               
